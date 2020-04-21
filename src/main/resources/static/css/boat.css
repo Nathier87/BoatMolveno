@@ -1,0 +1,60 @@
+/* BOAT MAIN */
+#boat {
+  background-image: url(https://www.whitehallrow.com/wp-content/uploads/2017/03/Tango-17-boat-Whitehall-Rowing-and-Sail-P2204165-1663x925.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+/* BOAT RENTAL SECTOR */
+/* #boat1 {
+  background-image: url(https://www.avon-boating.co.uk/wp-content/uploads/2018/12/DSC_0045-800x500.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+} */
+
+/* PAYMENT SECTOR */
+#payment {
+  background-image: url(https://www.federalreserve.gov/images/filmstrip-payment-systems.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#input-group {
+  padding: 50px;
+  margin: 10px auto;
+  box-sizing: border-box;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-direction: row;
+}
+.input-group-text {
+  width: 100px;
+}
+
+/* GUest */
+#guest {
+  background-image: url(https://www.federalreserve.gov/images/filmstrip-payment-systems.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#text {
+  padding: 50px;
+  margin: 10px auto;
+  box-sizing: border-box;
+  display: inline-block;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-direction: row;
+}
+.input-group-text {
+  width: 120;
+}
+
+/* BOAT */
+
+.form-group{
+  color: mediumblue;
+}
